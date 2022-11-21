@@ -11,8 +11,9 @@ A gamer, just like you.
 ![SouthBegonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthBegonia&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs,issues)
   
 ## Connect ☕
-- ✒️: [SouthBegonia's Blog](https://www.cnblogs.com/SouthBegonia/)
-- 🎮: [SouthBegonia's Steam](https://steamcommunity.com/id/SouthBegonia/)
+
+- ✒️: <a href="https://www.cnblogs.com/SouthBegonia/" target="_blank">SouthBegonia's Blog</a>
+- 🎮: <a href="https://steamcommunity.com/id/SouthBegonia/" target="_blank">SouthBegonia's Steam</a>
 
 ## 
 
