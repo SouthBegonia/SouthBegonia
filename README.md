@@ -8,7 +8,7 @@ A gamer, just like you.
 ~~暴雪你对得起我们吗？RNM 退钱！~~
 
 ## EXP 💻
-![SouthBegonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthBegonia&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs,issues)
+![SouthBegonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthBegonia&show_icons=true&include_all_commits=true&hide=contribs,prs,issues)
   
 ## Connect ☕
 
