@@ -6,7 +6,9 @@
 A gamer, just like you.  ~~暴雪你对得起我们吗？RNM 退钱！~~
 
 ## EXP 💻
-![SouthBegonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthBegonia&show_icons=true&include_all_commits=true&hide=contribs,prs,issues)
+![](https://raw.githubusercontent.com/SouthBegonia/SouthBegonia/master/profile-summary-card-output/2077/0-profile-details.svg)
+[![](https://raw.githubusercontent.com/SouthBegonia/SouthBegonia/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SouthBegonia/SouthBegonia/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
   
 ## Connect ☕
 
